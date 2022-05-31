@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="/assets/css/adminlte.min.css">
 
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-
+  <link rel="stylesheet" type="text/css" href="assets/css/estilo.css">
 </head>
 
 <body class="hold-transition sidebar-mini">
