@@ -18,7 +18,9 @@
                    
 
                   <button id="btnNuevo" type="button" class="btn btn-success" data-toggle="modal"><a href="paciente.nuevo.php" style="color:white;">Agregar</a></button>   
-                  
+                    <div class="col-lg-12"> 
+                      <button id="imprimir" type="submit" class="btn btn-info  fas fa-file-alt mt-2" value="Imprime esta pagina" onclick="window.print()"></button> 
+                    </div>
                 </div>    
               </div>    
             </div>
