@@ -106,7 +106,7 @@
     </div>
   </div>
   <button class="btn btn-success" type="submit">Guardar</button>
-  <button class="btn btn-danger" type="submit">Cancelar</button>
+  <button class="btn btn-danger" type="reset">Cancelar</button>
 </form>
 
 </section>
